@@ -3,7 +3,7 @@ name: Daily Portal Job Scraper & Emailer
 
 on:
   schedule:
-    - cron: '30 22 * * *' # 06:00 UTC = 08:00 CEST
+    - cron: '0 8 * * *' # 06:00 UTC = 08:00 CEST
   workflow_dispatch:
 
 jobs:
@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.2.2
 
       - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+        uses: actions/setup-python@v5.4.0
 
       - name: Install Dependencies
         run: |
