@@ -3,7 +3,7 @@ name: Daily Portal Job Scraper & Emailer
 
 on:
   schedule:
-    - cron: '0 6 * * *' # 06:00 UTC = 08:00 CEST
+    - cron: '30 22 * * *' # 06:00 UTC = 08:00 CEST
   workflow_dispatch:
 
 jobs:
