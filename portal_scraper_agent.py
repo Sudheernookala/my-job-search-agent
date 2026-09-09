@@ -14,7 +14,7 @@ GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD", "your_app_password")
 
 def fetch_live_portal_jobs():
     """
-    Fetches live postings from European tech career portals (e.g. WeAreDevelopers, Remotive, API feeds).
+    Fetches live postings from European tech career portals (e.g. WeAreDevelopers, Remotive, stepstone, Indeed).
     """
     target_jobs = []
     
@@ -52,14 +52,14 @@ def is_target_role(title, location, desc):
     # Check tech stack & seniority
     has_java = "java" in text or "spring" in text
     has_senior = any(s in text for s in ["senior", "lead", "sr", "principal"])
-    has_fullstack = "fullstack" in text or "full stack" in text or ("react" in text or "angular" in text or "vue" in text)
+    has_fullstack = "fullstack" in text or "full stack" in text or "Java Developer" in text or "Senior Java Developer" in text or("react" in text or "angular" in text or "vue" in text)
     
     return valid_region and has_java and has_senior and has_fullstack
 
 def extract_stack(text):
     text = text.lower()
     found = []
-    for tech in ["Java", "Spring Boot", "Angular", "React", "Vue", "TypeScript", "Kafka", "Docker", "Kubernetes", "AWS"]:
+    for tech in ["Java", "Spring Boot", "Angular", "TypeScript", "Kafka", "Docker", "Kubernetes", "AWS"]:
         if re.search(r'\b' + re.escape(tech.lower()) + r'\b', text):
             found.append(tech)
     return ", ".join(found) if found else "Java, Spring Boot, Microservices"
