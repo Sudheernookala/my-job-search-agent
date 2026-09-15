@@ -42,7 +42,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
-RECIPIENT_EMAIL = "sudheernookala@gmail.com"
+RECIPIENT_EMAIL = os.getenv("SENDER_EMAIL", "your_email@gmail.com")
 SENDER_EMAIL = os.getenv("SENDER_EMAIL", "your_email@gmail.com")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD", "your_app_password")
 
@@ -134,7 +134,7 @@ def fetch_remotive():
 
 def fetch_arbeitsagentur():
     jobs = []
-    base_url = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
+    base_url = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs"
     headers = {"X-API-Key": "jobboerse-jobsuche"}
 
     # Run separate searches per city/region - the API's "wo" free-text field
