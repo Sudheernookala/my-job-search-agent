@@ -1,0 +1,112 @@
+:root {
+  --bg: #f5f7fb;
+  --surface: #ffffff;
+  --text: #1a2233;
+  --muted: #64708a;
+  --border: #e3e8f0;
+  --accent: #1f5fbf;
+  --accent-soft: #e6effc;
+  --new: #0f8a5f;
+  --new-soft: #e3f6ee;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f141c;
+    --surface: #171e29;
+    --text: #e6ebf2;
+    --muted: #93a0b6;
+    --border: #283244;
+    --accent: #6ea3f5;
+    --accent-soft: #1c2b44;
+    --new: #4cc79a;
+    --new-soft: #15322a;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+}
+.page { max-width: 1280px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { margin: 0 0 4px; font-size: 26px; }
+.muted { color: var(--muted); margin: 0; }
+.small { font-size: 12px; }
+.strong { font-weight: 600; }
+
+.header { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+.header-right { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+
+.btn {
+  display: inline-block; padding: 8px 14px; border-radius: 8px;
+  background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; white-space: nowrap;
+}
+.btn.small { padding: 5px 10px; font-size: 12px; }
+.btn:hover { filter: brightness(1.08); }
+
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 16px; }
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.stat-value { font-size: 26px; font-weight: 700; }
+.stat-value.small { font-size: 16px; padding-top: 6px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.stat-label { color: var(--muted); font-size: 12px; margin-top: 2px; }
+
+.filters {
+  display: flex; flex-wrap: wrap; gap: 12px; background: var(--surface);
+  border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px;
+}
+.field { display: flex; flex-direction: column; gap: 4px; min-width: 140px; }
+.field.grow { flex: 1 1 200px; }
+.field label { font-size: 12px; color: var(--muted); font-weight: 600; }
+input, select {
+  font: inherit; color: var(--text); background: var(--bg);
+  border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; width: 100%;
+}
+input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 16px; }
+.chip {
+  font: inherit; font-size: 13px; cursor: pointer; padding: 6px 12px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+}
+.chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.chip.ghost { background: transparent; color: var(--muted); }
+
+.empty { text-align: center; color: var(--muted); padding: 48px 0; }
+
+.table-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+th {
+  text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .03em;
+  color: var(--muted); padding: 12px; border-bottom: 1px solid var(--border);
+  cursor: pointer; user-select: none; white-space: nowrap; position: sticky; top: 0; background: var(--surface);
+}
+td { padding: 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: var(--accent-soft); }
+td:first-child { white-space: nowrap; }
+.action { text-align: right; }
+
+.badge {
+  margin-left: 6px; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 6px;
+  background: var(--new-soft); color: var(--new); text-transform: uppercase;
+}
+.tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.tag { font-size: 11px; padding: 2px 7px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); }
+
+/* Phone: turn rows into cards */
+@media (max-width: 760px) {
+  .stats { grid-template-columns: repeat(2, 1fr); }
+  .field { flex: 1 1 45%; min-width: 0; }
+  .table-wrap { background: transparent; border: none; }
+  thead { display: none; }
+  table, tbody, tr, td { display: block; width: 100%; }
+  tr { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; margin-bottom: 10px; padding: 6px 0; }
+  td { border: none; padding: 6px 14px; display: flex; gap: 12px; }
+  td::before { content: attr(data-label); min-width: 80px; color: var(--muted); font-size: 12px; }
+  td.action { justify-content: flex-end; }
+  td.action::before { content: none; }
+}
