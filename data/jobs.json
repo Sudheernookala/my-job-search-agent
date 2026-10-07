@@ -1,0 +1,33 @@
+{
+ "generated_at": "2026-10-07T20:55:32+00:00",
+ "retention_days": 30,
+ "jobs": [
+  {
+   "date_found": "2026-10-07",
+   "source": "Jobicy",
+   "company": "Sporty Group",
+   "location": "Europe",
+   "title": "Frontend Engineering Team Lead - MarTech",
+   "tech_stack": "Java, Spring Boot, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech"
+  },
+  {
+   "date_found": "2026-10-07",
+   "source": "Jobicy",
+   "company": "infisical",
+   "location": "Brazil,  Canada,  Europe,  USA",
+   "title": "Senior Full Stack Engineer",
+   "tech_stack": "React, TypeScript, AWS",
+   "contact_info": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4"
+  },
+  {
+   "date_found": "2026-10-07",
+   "source": "Arbeitnow",
+   "company": "Eye Security",
+   "location": "Berlin - hybrid",
+   "title": "Senior Software Engineer (m/f/x)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-software-engineer-berlin-248595"
+  }
+ ]
+}
