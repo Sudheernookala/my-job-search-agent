@@ -1,0 +1,94 @@
+name: Daily Job Tracker (Excel + UI)
+
+# Separate from daily_agent.yml (the email agent), which is left unchanged.
+# 1. track:  searches jobs, appends to data/job_history.xlsx, drops rows older
+#            than 30 days, writes data/jobs.json, commits both to the repo.
+# 2. deploy: builds the React UI in web/ with the latest data and publishes
+#            it to GitHub Pages.
+
+on:
+  schedule:
+    - cron: '30 8 * * *' # 08:30 UTC daily (30 min after the email agent)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['web/**'] # redeploy the UI when its code changes
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: job-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install openpyxl requests
+
+      - name: Update Excel History
+        run: python excel_tracker_agent.py
+
+      - name: Commit Data
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/job_history.xlsx data/jobs.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Job tracker update $(date -u +%Y-%m-%d)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+  deploy:
+    needs: track
+    if: always() && (needs.track.result == 'success' || needs.track.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout Code (latest, including today's data commit)
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Build UI
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
