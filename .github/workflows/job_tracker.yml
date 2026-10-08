@@ -61,7 +61,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
     steps:
       - name: Checkout Code (latest, including today's data commit)
         uses: actions/checkout@v6
@@ -89,6 +89,20 @@ jobs:
         with:
           path: web/dist
 
+      # GitHub sometimes reports "No artifacts named github-pages were found"
+      # right after a successful upload. Retry once in the same run instead of
+      # leaving the page stale (re-running the job later fails with
+      # "Multiple artifacts" because the old upload is still attached).
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before retrying deploy
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 60
+
+      - name: Deploy to GitHub Pages (retry)
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
