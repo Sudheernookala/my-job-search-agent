@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T15:46:34+00:00",
+ "generated_at": "2026-10-08T20:14:42+00:00",
  "retention_days": 30,
  "jobs": [
   {
@@ -23,6 +23,15 @@
   {
    "date_found": "2026-10-08",
    "source": "Arbeitnow",
+   "company": "Think Cell",
+   "location": "EU Remote",
+   "title": "(Senior) Full Stack Developer - Web (f/m/d)",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/think-cell/senior-full-stack-developer-web-442103"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
    "company": "shifttechnology",
    "location": "EU Remote",
    "title": "QA Engineer Intern (6 months)",
@@ -41,11 +50,29 @@
   {
    "date_found": "2026-10-08",
    "source": "Arbeitnow",
+   "company": "Researchgate",
+   "location": "Berlin",
+   "title": "Senior Frontend Engineer - React",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-163857"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
    "company": "orderbird GmbH",
    "location": "Berlin",
    "title": "Head of Software Engineering (d/f/m)",
    "tech_stack": "Java, React, Docker, Kubernetes, AWS",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-software-engineering-berlin-135166"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "Hawkeyeinnovations",
+   "location": "Budapest, Hungary",
+   "title": "Senior Full Stack Engineer - (HawkAI)",
+   "tech_stack": "Java, React, TypeScript, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-73855"
   },
   {
    "date_found": "2026-10-08",
@@ -91,6 +118,15 @@
    "title": "Senior Software Engineer - Future Opportunities",
    "tech_stack": "Java, Spring Boot, Angular, React, AWS",
    "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-software-engineer-future-opportunities-london-336075"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "autoscout24",
+   "location": "EU Remote",
+   "title": "Senior Fullstack Engineer (m/f/d)",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-fullstack-engineer-173116"
   },
   {
    "date_found": "2026-10-07",
