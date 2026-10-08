@@ -1,7 +1,97 @@
 {
- "generated_at": "2026-10-07T20:55:32+00:00",
+ "generated_at": "2026-10-08T15:46:34+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "title": "Senior Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-418601"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "title": "(Senior) Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-44621"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "shifttechnology",
+   "location": "EU Remote",
+   "title": "QA Engineer Intern (6 months)",
+   "tech_stack": "React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-113722"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "shifttechnology",
+   "location": "EU Remote",
+   "title": "Full stack Engineer Intern (6 months)",
+   "tech_stack": "Java, React",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/full-stack-engineer-intern-6-months-327480"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "orderbird GmbH",
+   "location": "Berlin",
+   "title": "Head of Software Engineering (d/f/m)",
+   "tech_stack": "Java, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/orderbird-gmbh/head-of-software-engineering-berlin-135166"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Senior Software Engineer - Python (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, Kafka, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-software-engineer-python-paris-paris-159858"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Director of Developer Experience - Platform Engineering (x/f/m)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/director-of-developer-experience-platform-engineering-paris-paris-413651"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Design System Director (x/f/m)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/design-system-director-paris-paris-264979"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Jobicy",
+   "company": "Dataiku",
+   "location": "France,  Germany,  Netherlands,  Spain,  UK",
+   "title": "Fullstack Software Engineer - Core",
+   "tech_stack": "Java, Angular, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core"
+  },
+  {
+   "date_found": "2026-10-08",
+   "source": "Arbeitnow",
+   "company": "Baringa",
+   "location": "London",
+   "title": "Senior Software Engineer - Future Opportunities",
+   "tech_stack": "Java, Spring Boot, Angular, React, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-software-engineer-future-opportunities-london-336075"
+  },
   {
    "date_found": "2026-10-07",
    "source": "Jobicy",
