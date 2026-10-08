@@ -1,6 +1,6 @@
 """
-Daily Senior Java Fullstack Job Aggregator - Germany / Netherlands / EU Remote
-================================================================================
+Daily Senior Java Fullstack Job Aggregator - Germany / Netherlands / Finland / EU Remote
+==========================================================================================
 
 SOURCES USED (all public, no-ToS-violation access):
   - Arbeitsagentur (Bundesagentur fur Arbeit) - Germany's official job database.
@@ -10,7 +10,17 @@ SOURCES USED (all public, no-ToS-violation access):
     stable and not a ToS violation the way scraping a rendered page is.
   - Remotive       - public API, no key required
   - Arbeitnow      - public API, no key required
-  - Jobicy         - public API, no key required
+  - Jobicy         - public API, no key required (Europe + Finland geo)
+  - Jooble         - free API key (optional). Aggregates Finnish boards such as
+                     Duunitori and Jobly. Set the JOOBLE_API_KEY secret to enable;
+                     without it the source is skipped.
+
+FINLAND - why no Tyomarkkinatori / Duunitori / Jobly / Oikotie directly:
+  - Tyomarkkinatori (official Finnish job market) has a search API, but access
+    needs a signed onboarding with KEHA-keskus, a Finnish business ID and
+    fixed IPs - not available to an individual.
+  - Duunitori, Jobly, Oikotie publish no public API; scraping them is the same
+    ToS problem as StepStone. Jooble covers their listings legitimately.
 
 SOURCES DELIBERATELY *NOT* INCLUDED (and why):
   - Indeed.de   -> Public search API deprecated since 2023. Current ToS
@@ -61,7 +71,9 @@ def is_target_role(title, location, desc):
     valid_region = any(r in text for r in [
         "germany", "deutschland", "netherlands", "amsterdam", "berlin",
         "munich", "munchen", "hamburg", "frankfurt", "cologne", "koln",
-        "stuttgart", "europe", "eu remote", "worldwide"
+        "stuttgart", "europe", "eu remote", "worldwide",
+        "finland", "suomi", "helsinki", "espoo", "vantaa", "tampere",
+        "turku", "oulu", "jyvaskyla", "jyväskylä"
     ])
 
     has_java = "java" in text or "spring" in text
@@ -225,8 +237,15 @@ def fetch_arbeitnow():
 
 def fetch_jobicy():
     jobs = []
+    for geo in ["europe", "finland"]:
+        jobs += _fetch_jobicy_geo(geo)
+    return jobs
+
+
+def _fetch_jobicy_geo(geo):
+    jobs = []
     url = "https://jobicy.com/api/v2/remote-jobs"
-    params = {"count": 50, "geo": "europe", "tag": "java"}
+    params = {"count": 50, "geo": geo, "tag": "java"}
     try:
         res = requests.get(url, params=params, timeout=15)
         res.raise_for_status()
@@ -253,7 +272,52 @@ def fetch_jobicy():
                     "contact_info": item.get("url", "N/A"),
                 })
     except Exception as e:
-        print(f"[Jobicy] fetch error: {e}")
+        print(f"[Jobicy:{geo}] fetch error: {e}")
+    return jobs
+
+
+# ----------------------------------------------------------------------
+# Source: Jooble (Finland) - optional, needs a free key in JOOBLE_API_KEY
+# ----------------------------------------------------------------------
+
+def fetch_jooble_finland():
+    api_key = os.getenv("JOOBLE_API_KEY", "").strip()
+    if not api_key:
+        print("[Jooble] JOOBLE_API_KEY not set - skipping Finland search")
+        return []
+
+    jobs = []
+    url = f"https://jooble.org/api/{api_key}"
+    for keywords in ["senior java developer", "java fullstack developer"]:
+        try:
+            res = requests.post(url, json={"keywords": keywords, "location": "Finland"}, timeout=20)
+            res.raise_for_status()
+            for item in res.json().get("jobs", []):
+                title = item.get("title", "")
+                location = item.get("location", "") or "Finland"
+                desc = item.get("snippet", "")
+
+                posted_dt = None
+                updated = (item.get("updated") or "")[:19]
+                if updated:
+                    try:
+                        posted_dt = datetime.strptime(updated, "%Y-%m-%dT%H:%M:%S").replace(tzinfo=timezone.utc)
+                    except ValueError:
+                        pass
+
+                # "Finland" is appended so Finnish city names not in the region
+                # list still pass - the search itself is already Finland-only.
+                if is_target_role(title, f"{location} Finland", desc) and within_freshness_window(posted_dt):
+                    jobs.append({
+                        "source": "Jooble (FI)",
+                        "company": item.get("company", "") or "N/A",
+                        "location": location,
+                        "title": title,
+                        "tech_stack": extract_stack(f"{title} {desc}"),
+                        "contact_info": item.get("link", "N/A"),
+                    })
+        except Exception as e:
+            print(f"[Jooble:{keywords}] fetch error: {e}")
     return jobs
 
 
@@ -267,6 +331,7 @@ def fetch_all_jobs():
     all_jobs += fetch_arbeitsagentur()
     all_jobs += fetch_arbeitnow()
     all_jobs += fetch_jobicy()
+    all_jobs += fetch_jooble_finland()
 
     # De-dupe on (company, title) - different sources sometimes list the same posting
     seen = set()
@@ -289,7 +354,7 @@ def generate_excel(jobs, filename="Daily_EU_Java_Roles.xlsx"):
     ws = wb.active
     ws.title = "Daily Job Matches"
 
-    ws['A1'] = "Senior Java Fullstack Roles - Germany, Netherlands & EU Remote (last 24h)"
+    ws['A1'] = "Senior Java Fullstack Roles - Germany, Netherlands, Finland & EU Remote (last 24h)"
     ws['A1'].font = Font(name='Calibri', size=14, bold=True, color="1F4E78")
 
     headers = ["Source", "Company Name", "Location", "Role Title", "Key Tech Stack", "Contact / Application Link"]
@@ -341,8 +406,8 @@ def send_daily_email(recipient, excel_path, job_count):
     body = (
         f"Hi,\n\n"
         f"Attached: {job_count} Senior Java Fullstack roles posted in the last 24 hours "
-        f"across Germany, Netherlands, and EU Remote, aggregated from Arbeitsagentur, "
-        f"Remotive, Arbeitnow, and Jobicy.\n\n"
+        f"across Germany, Netherlands, Finland, and EU Remote, aggregated from "
+        f"Arbeitsagentur, Remotive, Arbeitnow, Jobicy, and Jooble.\n\n"
         f"Note: StepStone, Indeed.de, and WeAreDevelopers are not included - none of "
         f"them offer a public job-search API, and scraping them violates their Terms "
         f"of Service.\n\n"

@@ -28,4 +28,5 @@ jobs:
         env:
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}  # optional, enables Finland search
         run: python portal_scraper_agent.py

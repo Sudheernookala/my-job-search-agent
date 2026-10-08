@@ -40,6 +40,8 @@ jobs:
         run: pip install openpyxl requests
 
       - name: Update Excel History
+        env:
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}  # optional, enables Finland search
         run: python excel_tracker_agent.py
 
       - name: Commit Data
