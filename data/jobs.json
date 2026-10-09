@@ -1,7 +1,25 @@
 {
- "generated_at": "2026-10-08T20:14:42+00:00",
+ "generated_at": "2026-10-09T15:28:15+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-09",
+   "source": "Arbeitnow",
+   "company": "Fact Finder",
+   "location": "Berlin",
+   "title": "Staff Frontend Engineer / Frontend Architect (m/f/d)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/fact-finder/staff-frontend-engineer-frontend-architect-berlin-122504"
+  },
+  {
+   "date_found": "2026-10-09",
+   "source": "Arbeitnow",
+   "company": "databricks",
+   "location": "London",
+   "title": "Forward Deployed Engineer",
+   "tech_stack": "Java, TypeScript",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-london-285228"
+  },
   {
    "date_found": "2026-10-08",
    "source": "Arbeitnow",
