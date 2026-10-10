@@ -1,7 +1,34 @@
 {
- "generated_at": "2026-10-09T15:28:15+00:00",
+ "generated_at": "2026-10-10T14:35:10+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-10",
+   "source": "Arbeitnow",
+   "company": "Perk",
+   "location": "London",
+   "title": "Senior PR Manager",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-482991"
+  },
+  {
+   "date_found": "2026-10-10",
+   "source": "Arbeitnow",
+   "company": "freiheit.com technologies",
+   "location": "Hamburg",
+   "title": "Hackers wanted – Senior Software Engineer",
+   "tech_stack": "Java, Angular, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-senior-software-engineer-hamburg-118878"
+  },
+  {
+   "date_found": "2026-10-10",
+   "source": "Arbeitnow",
+   "company": "Decathlontechnology",
+   "location": "Paris, Paris",
+   "title": "Full Stack Developer - Data Factory (f/m/d)",
+   "tech_stack": "Java, Angular, React, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-developer-data-factory-paris-paris-431050"
+  },
   {
    "date_found": "2026-10-09",
    "source": "Arbeitnow",
