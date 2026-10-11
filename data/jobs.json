@@ -1,7 +1,25 @@
 {
- "generated_at": "2026-10-10T14:35:10+00:00",
+ "generated_at": "2026-10-11T15:00:02+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-11",
+   "source": "Arbeitnow",
+   "company": "Valtech",
+   "location": "EU Remote",
+   "title": "FR - Tech Lead Coremedia",
+   "tech_stack": "Java, Spring Boot, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/valtech/fr-tech-lead-coremedia-142170"
+  },
+  {
+   "date_found": "2026-10-11",
+   "source": "Arbeitnow",
+   "company": "Bikeleasing",
+   "location": "Remote Deutschland",
+   "title": "Senior QA Engineer (gn)",
+   "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-298617"
+  },
   {
    "date_found": "2026-10-10",
    "source": "Arbeitnow",
