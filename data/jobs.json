@@ -1,7 +1,70 @@
 {
- "generated_at": "2026-10-11T15:00:02+00:00",
+ "generated_at": "2026-10-12T18:06:20+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-12",
+   "source": "Jobicy",
+   "company": "Zone &#038; Co",
+   "location": "UK",
+   "title": "GTM Engineer",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://jobicy.com/jobs/155142-gtm-engineer-4"
+  },
+  {
+   "date_found": "2026-10-12",
+   "source": "Jobicy",
+   "company": "Smartsheet",
+   "location": "Bulgaria",
+   "title": "Software Engineer (Remote Eligible in Bulgaria)",
+   "tech_stack": "Java, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/155069-software-engineer-remote-eligible-in-bulgaria"
+  },
+  {
+   "date_found": "2026-10-12",
+   "source": "Jobicy",
+   "company": "Five9",
+   "location": "Portugal",
+   "title": "Senior Software Engineer - Frontend",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/155063-senior-software-engineer-frontend-2"
+  },
+  {
+   "date_found": "2026-10-12",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Senior Data Engineer (x/f/m)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-paris-paris-87219"
+  },
+  {
+   "date_found": "2026-10-12",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "IA Engineer Intern (x/f/m) - Paris",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/ia-engineer-intern-paris-paris-paris-47395"
+  },
+  {
+   "date_found": "2026-10-12",
+   "source": "Jobicy",
+   "company": "CoderPad",
+   "location": "France",
+   "title": "Lead Software Engineer",
+   "tech_stack": "Java, React, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/153066-lead-software-engineer"
+  },
+  {
+   "date_found": "2026-10-12",
+   "source": "Arbeitnow",
+   "company": "Certivity",
+   "location": "München - HQ",
+   "title": "Python Engineer – Web Crawling & Data Extraction (m/f/d)",
+   "tech_stack": "Java, Spring Boot, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/certivity/python-engineer-web-crawling-data-extraction-munchen-hq-492504"
+  },
   {
    "date_found": "2026-10-11",
    "source": "Arbeitnow",
