@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-10-12T18:06:20+00:00",
+ "generated_at": "2026-10-13T16:13:38+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-13",
+   "source": "Arbeitnow",
+   "company": "Tavily",
+   "location": "EU Remote",
+   "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer",
+   "tech_stack": "Angular, React",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-software-engineer-agentic-search-web-rendering-engineer-444896"
+  },
+  {
+   "date_found": "2026-10-13",
+   "source": "Jobicy",
+   "company": "Smartsheet",
+   "location": "Bulgaria",
+   "title": "Sr. Software Engineer (Remote Eligible from Bulgaria)",
+   "tech_stack": "Java, React, AWS",
+   "contact_info": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria"
+  },
+  {
+   "date_found": "2026-10-13",
+   "source": "Arbeitnow",
+   "company": "Pelico",
+   "location": "Paris",
+   "title": "Tech Lead - Platform",
+   "tech_stack": "Java, React, TypeScript, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-platform-paris-355949"
+  },
+  {
+   "date_found": "2026-10-13",
+   "source": "Arbeitnow",
+   "company": "Pelico",
+   "location": "Paris",
+   "title": "Tech Lead - Solutions",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-solutions-paris-46303"
+  },
+  {
+   "date_found": "2026-10-13",
+   "source": "Arbeitnow",
+   "company": "MILES Mobility",
+   "location": "Berlin",
+   "title": "Senior React Native Engineer - App Owner (w/m/x/d)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-react-native-engineer-app-owner-d-berlin-421435"
+  },
+  {
+   "date_found": "2026-10-13",
+   "source": "Arbeitnow",
+   "company": "Keylane",
+   "location": "Utrecht, Netherlands",
+   "title": "Medior / Senior Java Software Engineer",
+   "tech_stack": "Java, Angular, Docker",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/keylane/medior-senior-java-software-engineer-utrecht-259177"
+  },
   {
    "date_found": "2026-10-12",
    "source": "Jobicy",
