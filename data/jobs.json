@@ -1,7 +1,70 @@
 {
- "generated_at": "2026-10-13T16:13:38+00:00",
+ "generated_at": "2026-10-14T13:55:40+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-14",
+   "source": "Arbeitnow",
+   "company": "vitaservices GmbH & Co. KG",
+   "location": "Berlin",
+   "title": "AI-Native Software Engineer (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/vitaservices-gmbh-co-kg/ai-native-software-engineer-berlin-79664"
+  },
+  {
+   "date_found": "2026-10-14",
+   "source": "Arbeitnow",
+   "company": "Teampicnic",
+   "location": "Amsterdam",
+   "title": "Tech Lead (Java)",
+   "tech_stack": "Java, Spring Boot, TypeScript, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/teampicnic/tech-lead-java-amsterdam-378374"
+  },
+  {
+   "date_found": "2026-10-14",
+   "source": "Jobicy",
+   "company": "RevenueCat",
+   "location": "Canada,  Europe,  USA",
+   "title": "Senior Sales Engineer",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/153225-senior-sales-engineer-2"
+  },
+  {
+   "date_found": "2026-10-14",
+   "source": "Arbeitnow",
+   "company": "Nebius",
+   "location": "Zurich",
+   "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer",
+   "tech_stack": "Angular, React",
+   "contact_info": "https://www.arbeitnow.ch/jobs/companies/nebius/senior-software-engineer-agentic-search-web-rendering-engineer-zurich-220466"
+  },
+  {
+   "date_found": "2026-10-14",
+   "source": "Arbeitnow",
+   "company": "Nebius",
+   "location": "Zurich",
+   "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer",
+   "tech_stack": "Kubernetes",
+   "contact_info": "https://www.arbeitnow.ch/jobs/companies/nebius/senior-software-engineer-agentic-search-web-access-engineer-zurich-380244"
+  },
+  {
+   "date_found": "2026-10-14",
+   "source": "Arbeitnow",
+   "company": "Decathlontechnology",
+   "location": "Villeneuve-d'Ascq, Nord",
+   "title": "Senior Software Engineer - Data Factory (f/m/d)",
+   "tech_stack": "TypeScript, Kafka, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-software-engineer-data-factory-villeneuve-dascq-nord-185021"
+  },
+  {
+   "date_found": "2026-10-14",
+   "source": "Arbeitnow",
+   "company": "Decathlontechnology",
+   "location": "Lille - Btwin Village, Nord",
+   "title": "Engineering Manager - Sport Process - Worldwide Offer (f/m/d)",
+   "tech_stack": "Java, Spring Boot, Kafka, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/engineering-manager-sport-process-worldwide-offer-lille-btwin-village-nord-183173"
+  },
   {
    "date_found": "2026-10-13",
    "source": "Arbeitnow",
