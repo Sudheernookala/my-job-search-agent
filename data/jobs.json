@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-10-14T13:55:40+00:00",
+ "generated_at": "2026-10-15T13:36:06+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-15",
+   "source": "Arbeitnow",
+   "company": "Pennylane SAS",
+   "location": "All France (remote)",
+   "title": "Fullstack Software Engineer RoR/JS W/M",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/fullstack-software-engineer-ror-js-w-m-paris-363056"
+  },
+  {
+   "date_found": "2026-10-15",
+   "source": "Arbeitnow",
+   "company": "Mirakl - Labs",
+   "location": "Paris, France",
+   "title": "Software Engineer Intern - Financial Services",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kafka, Docker",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886"
+  },
+  {
+   "date_found": "2026-10-15",
+   "source": "Arbeitnow",
+   "company": "Mirakl - Labs",
+   "location": "Paris, France",
+   "title": "Software Engineer Apprentice - Connect",
+   "tech_stack": "Java, Spring Boot, Kafka, Docker",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-apprentice-connect-paris-150457"
+  },
+  {
+   "date_found": "2026-10-15",
+   "source": "Arbeitnow",
+   "company": "Conflux",
+   "location": "Utrecht, Utrecht, Nederland",
+   "title": "Senior Java Developer",
+   "tech_stack": "Java, AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-java-developer-utrecht-224467"
+  },
+  {
+   "date_found": "2026-10-15",
+   "source": "Arbeitnow",
+   "company": "Adikteev",
+   "location": "Remote job",
+   "title": "Staff Site Reliability Engineer",
+   "tech_stack": "AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394"
+  },
+  {
+   "date_found": "2026-10-15",
+   "source": "Arbeitnow",
+   "company": "Accso – Accelerated Solutions GmbH",
+   "location": "Darmstadt",
+   "title": "Senior Fullstack Entwickler - Java, Spring, Angular*",
+   "tech_stack": "Java, Angular, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-fullstack-entwickler-java-spring-angular-darmstadt-138755"
+  },
   {
    "date_found": "2026-10-14",
    "source": "Arbeitnow",
