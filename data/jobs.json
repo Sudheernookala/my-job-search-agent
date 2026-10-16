@@ -1,7 +1,25 @@
 {
- "generated_at": "2026-10-15T13:36:06+00:00",
+ "generated_at": "2026-10-16T13:24:43+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-16",
+   "source": "Arbeitnow",
+   "company": "mirakllabs",
+   "location": "Paris",
+   "title": "Software Engineer Intern - Financial Services",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kafka, Docker",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168"
+  },
+  {
+   "date_found": "2026-10-16",
+   "source": "Arbeitnow",
+   "company": "idnow",
+   "location": "Rennes, Ille-et-Vilaine",
+   "title": "Solution Engineer (f/m/d)",
+   "tech_stack": "Java, React, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/idnow/solution-engineer-rennes-ille-et-vilaine-342860"
+  },
   {
    "date_found": "2026-10-15",
    "source": "Arbeitnow",
