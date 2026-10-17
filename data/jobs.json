@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-10-16T13:24:43+00:00",
+ "generated_at": "2026-10-17T12:18:44+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-17",
+   "source": "Arbeitnow",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "title": "Cybersecurity Intern",
+   "tech_stack": "TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050"
+  },
   {
    "date_found": "2026-10-16",
    "source": "Arbeitnow",
