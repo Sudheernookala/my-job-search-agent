@@ -1,7 +1,88 @@
 {
- "generated_at": "2026-10-17T12:18:44+00:00",
+ "generated_at": "2026-10-18T12:41:58+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Tether Operations Limited",
+   "location": "Remote job",
+   "title": "Mobile Engineer - React Native (100% Remote) - Worldwide",
+   "tech_stack": "React",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Tether Operations Limited",
+   "location": "Remote job",
+   "title": "Fullstack Engineer - AgenticOps (100% Remote)",
+   "tech_stack": "TypeScript",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Payter B.V.",
+   "location": "Rotterdam, Zuid-Holland, Nederland",
+   "title": "Full Stack Tech Lead",
+   "tech_stack": "Java, Angular, TypeScript, Kafka, Kubernetes",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/payter-bv/full-stack-tech-lead-rotterdam-21453"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Nebius",
+   "location": "Zurich",
+   "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer",
+   "tech_stack": "Kubernetes",
+   "contact_info": "https://www.arbeitnow.ch/jobs/companies/nebius/senior-software-engineer-agentic-search-web-access-engineer-zurich-49699"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "MILES Mobility GmbH",
+   "location": "Berlin",
+   "title": "Senior React Native Engineer - App Owner (w/m/x/d)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/senior-react-native-engineer-app-owner-d-berlin-295111"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Eye Security",
+   "location": "Berlin - hybrid",
+   "title": "Senior Software Engineer, Agents (m/f/x)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-software-engineer-agents-berlin-285258"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Senior IA Inference Engineer (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ia-inference-engineer-paris-paris-99480"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Senior Agents Platform Engineer (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-agents-platform-engineer-paris-paris-164639"
+  },
+  {
+   "date_found": "2026-10-18",
+   "source": "Jobicy",
+   "company": "Apollo.io",
+   "location": "Poland",
+   "title": "Senior Software Engineer, Growth",
+   "tech_stack": "React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/155618-senior-software-engineer-growth-2"
+  },
   {
    "date_found": "2026-10-17",
    "source": "Arbeitnow",
