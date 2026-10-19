@@ -1,7 +1,34 @@
 {
- "generated_at": "2026-10-18T12:41:58+00:00",
+ "generated_at": "2026-10-19T15:48:04+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-19",
+   "source": "Jobicy",
+   "company": "Skedda",
+   "location": "Europe",
+   "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
+   "tech_stack": "Java",
+   "contact_info": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2"
+  },
+  {
+   "date_found": "2026-10-19",
+   "source": "Arbeitnow",
+   "company": "Natalie Felsinger Consulting",
+   "location": "Frechen",
+   "title": "Senior Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/natalie-felsinger-consulting/senior-java-fullstack-developer-frechen-256898"
+  },
+  {
+   "date_found": "2026-10-19",
+   "source": "Jobicy",
+   "company": "Bloomreach",
+   "location": "Europe",
+   "title": "Staff Software Engineer - Python, Java / Spring or Go",
+   "tech_stack": "Java, Angular, React, TypeScript, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go"
+  },
   {
    "date_found": "2026-10-18",
    "source": "Arbeitnow",
