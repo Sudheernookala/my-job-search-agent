@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-10-19T15:48:04+00:00",
+ "generated_at": "2026-10-20T13:44:58+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-20",
+   "source": "Arbeitnow",
+   "company": "Swisscom",
+   "location": "Rotterdam, Zuid-Holland, Netherlands",
+   "title": "Senior DevOps Engineer",
+   "tech_stack": "Java, Spring Boot, Angular",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/swisscom/senior-devops-engineer-rotterdam-135896"
+  },
+  {
+   "date_found": "2026-10-20",
+   "source": "Jobicy",
+   "company": "infisical",
+   "location": "Brazil,  Canada,  Europe,  USA",
+   "title": "Senior Full Stack Engineer",
+   "tech_stack": "React, TypeScript, AWS",
+   "contact_info": "https://jobicy.com/jobs/155949-senior-full-stack-engineer-8"
+  },
+  {
+   "date_found": "2026-10-20",
+   "source": "Arbeitnow",
+   "company": "Buying Labs",
+   "location": "Hamburg",
+   "title": "Senior Full-Stack Engineer (m/f/d)",
+   "tech_stack": "React, TypeScript, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/buying-labs/senior-full-stack-engineer-hamburg-306603"
+  },
+  {
+   "date_found": "2026-10-20",
+   "source": "Arbeitnow",
+   "company": "Andercore",
+   "location": "Berlin",
+   "title": "Staff Engineer",
+   "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/andercore/staff-engineer-berlin-165964"
+  },
   {
    "date_found": "2026-10-19",
    "source": "Jobicy",
