@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-10-20T13:44:58+00:00",
+ "generated_at": "2026-10-21T14:00:35+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-21",
+   "source": "Arbeitnow",
+   "company": "Coreweave",
+   "location": "London",
+   "title": "Account Solution Architect",
+   "tech_stack": "Kubernetes",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/account-solution-architect-london-475102"
+  },
   {
    "date_found": "2026-10-20",
    "source": "Arbeitnow",
