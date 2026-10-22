@@ -1,7 +1,52 @@
 {
- "generated_at": "2026-10-21T14:00:35+00:00",
+ "generated_at": "2026-10-22T13:59:22+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-22",
+   "source": "Jobicy",
+   "company": "Zone &#038; Co",
+   "location": "Czechia",
+   "title": "AI Software Engineer",
+   "tech_stack": "AWS",
+   "contact_info": "https://jobicy.com/jobs/153823-ai-software-engineer"
+  },
+  {
+   "date_found": "2026-10-22",
+   "source": "Arbeitnow",
+   "company": "TecFox GmbH",
+   "location": "Berlin",
+   "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-133162"
+  },
+  {
+   "date_found": "2026-10-22",
+   "source": "Arbeitnow",
+   "company": "TecFox GmbH",
+   "location": "Berlin",
+   "title": "Senior Frontend-Softwareentwickler (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-422309"
+  },
+  {
+   "date_found": "2026-10-22",
+   "source": "Arbeitnow",
+   "company": "Grip",
+   "location": "Remote job",
+   "title": "Principal Engineer (Software Engineering/Devops)",
+   "tech_stack": "React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/grip/remote-principal-engineer-software-engineering-devops-62745"
+  },
+  {
+   "date_found": "2026-10-22",
+   "source": "Arbeitnow",
+   "company": "GradeMatch",
+   "location": "Eindhoven, Noord-Brabant, Nederland",
+   "title": "Full Stack Developer",
+   "tech_stack": "Java, Angular, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496"
+  },
   {
    "date_found": "2026-10-21",
    "source": "Arbeitnow",
