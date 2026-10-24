@@ -1,7 +1,52 @@
 {
- "generated_at": "2026-10-23T13:41:50+00:00",
+ "generated_at": "2026-10-24T12:50:37+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-24",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Senior AI Engineer - Search & Recommendation - Patient Team (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-engineer-search-recommendation-patient-team-paris-paris-428774"
+  },
+  {
+   "date_found": "2026-10-24",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris, Paris",
+   "title": "Senior AI Engineer - Patient Team (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-engineer-patient-team-paris-paris-437192"
+  },
+  {
+   "date_found": "2026-10-24",
+   "source": "Jobicy",
+   "company": "Canonical",
+   "location": "Anywhere",
+   "title": "Engineering Manager",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/149575-engineering-manager"
+  },
+  {
+   "date_found": "2026-10-24",
+   "source": "Jobicy",
+   "company": "Canonical",
+   "location": "Anywhere",
+   "title": "Software Engineering Director",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/149571-software-engineering-director"
+  },
+  {
+   "date_found": "2026-10-24",
+   "source": "Jobicy",
+   "company": "Banyan Software",
+   "location": "Belgium,  Germany,  Netherlands,  UK",
+   "title": "Forward Deployed Engineer",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8"
+  },
   {
    "date_found": "2026-10-23",
    "source": "Arbeitnow",
