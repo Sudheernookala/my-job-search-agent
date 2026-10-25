@@ -1,7 +1,34 @@
 {
- "generated_at": "2026-10-24T12:50:37+00:00",
+ "generated_at": "2026-10-25T13:17:31+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-25",
+   "source": "Jobicy",
+   "company": "Twilio",
+   "location": "Ireland,  Spain,  UK",
+   "title": "Presales Engineer (German Speaking)",
+   "tech_stack": "Java, Angular, React",
+   "contact_info": "https://jobicy.com/jobs/156791-presales-engineer-german-speaking"
+  },
+  {
+   "date_found": "2026-10-25",
+   "source": "Jobicy",
+   "company": "Twilio",
+   "location": "Ireland,  UK",
+   "title": "Presales Engineer",
+   "tech_stack": "Java, React",
+   "contact_info": "https://jobicy.com/jobs/156788-presales-engineer"
+  },
+  {
+   "date_found": "2026-10-25",
+   "source": "Arbeitnow",
+   "company": "Malt",
+   "location": "Paris",
+   "title": "Senior Engineering Manager - Payment",
+   "tech_stack": "Java",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/malt/senior-engineering-manager-payment-paris-261962"
+  },
   {
    "date_found": "2026-10-24",
    "source": "Arbeitnow",
