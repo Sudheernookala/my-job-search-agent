@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-10-25T13:17:31+00:00",
+ "generated_at": "2026-10-26T15:21:29+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-26",
+   "source": "Arbeitnow",
+   "company": "Firstlead GmbH",
+   "location": "Berlin",
+   "title": "CTO (m/w/d) – Tech-Lead mit strategischem Weitblick & Hands-on-Mentalität",
+   "tech_stack": "Angular, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/cto-tech-lead-mit-strategischem-weitblick-hands-on-mentalitat-berlin-231155"
+  },
   {
    "date_found": "2026-10-25",
    "source": "Jobicy",
