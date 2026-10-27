@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-10-26T15:21:29+00:00",
+ "generated_at": "2026-10-27T14:47:18+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-27",
+   "source": "Jobicy",
+   "company": "Ping Identity",
+   "location": "UK",
+   "title": "Technical Account Manager",
+   "tech_stack": "Java",
+   "contact_info": "https://jobicy.com/jobs/157348-technical-account-manager-10"
+  },
   {
    "date_found": "2026-10-26",
    "source": "Arbeitnow",
