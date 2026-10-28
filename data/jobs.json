@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-10-27T14:47:18+00:00",
+ "generated_at": "2026-10-28T15:18:26+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-28",
+   "source": "Arbeitnow",
+   "company": "Superchat",
+   "location": "Berlin, Berlin",
+   "title": "Tech Lead (m/f/d)",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/superchat/tech-lead-berlin-berlin-146815"
+  },
+  {
+   "date_found": "2026-10-28",
+   "source": "Jobicy",
+   "company": "Maze",
+   "location": "Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK",
+   "title": "Senior Full Stack Product Engineer (TypeScript)",
+   "tech_stack": "React, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript"
+  },
+  {
+   "date_found": "2026-10-28",
+   "source": "Arbeitnow",
+   "company": "databricks",
+   "location": "London",
+   "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
+   "tech_stack": "TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineer-technical-data-architect-london-464919"
+  },
+  {
+   "date_found": "2026-10-28",
+   "source": "Arbeitnow",
+   "company": "databricks",
+   "location": "Amsterdam",
+   "title": "Senior Software Engineer - Fullstack",
+   "tech_stack": "Java, Angular, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365"
+  },
   {
    "date_found": "2026-10-27",
    "source": "Jobicy",
