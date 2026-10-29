@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-10-28T15:18:26+00:00",
+ "generated_at": "2026-10-29T15:23:19+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-29",
+   "source": "Jobicy",
+   "company": "Twilio",
+   "location": "Ireland",
+   "title": "Senior Software Engineer",
+   "tech_stack": "Java, React, TypeScript, Kafka, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/157787-senior-software-engineer-18"
+  },
+  {
+   "date_found": "2026-10-29",
+   "source": "Arbeitnow",
+   "company": "Priva",
+   "location": "De Lier, Zuid-Holland, Netherlands",
+   "title": "Staff Frontend Engineer",
+   "tech_stack": "Angular, TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/priva/staff-frontend-engineer-de-lier-72329"
+  },
+  {
+   "date_found": "2026-10-29",
+   "source": "Jobicy",
+   "company": "Nebius",
+   "location": "Europe",
+   "title": "Senior/Staff Application Security Engineer",
+   "tech_stack": "Java",
+   "contact_info": "https://jobicy.com/jobs/157528-senior-staff-application-security-engineer"
+  },
+  {
+   "date_found": "2026-10-29",
+   "source": "Jobicy",
+   "company": "Nebius",
+   "location": "Europe,  Israel",
+   "title": "Senior Site Reliability Engineer (DevTools)",
+   "tech_stack": "Java",
+   "contact_info": "https://jobicy.com/jobs/157510-senior-site-reliability-engineer-devtools"
+  },
+  {
+   "date_found": "2026-10-29",
+   "source": "Jobicy",
+   "company": "Nebius",
+   "location": "Europe",
+   "title": "Senior Product Designer - Compute, Nebius Console",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://jobicy.com/jobs/157502-senior-product-designer-compute-nebius-console"
+  },
+  {
+   "date_found": "2026-10-29",
+   "source": "Arbeitnow",
+   "company": "easybill GmbH",
+   "location": "Berlin",
+   "title": "Senior Software Engineer (PHP, TypeScript, Node.js) m/w/d",
+   "tech_stack": "Java, React, TypeScript, Docker",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-php-typescript-nodejs-berlin-53164"
+  },
   {
    "date_found": "2026-10-28",
    "source": "Arbeitnow",
