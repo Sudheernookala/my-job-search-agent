@@ -1,7 +1,25 @@
 {
- "generated_at": "2026-10-29T15:23:19+00:00",
+ "generated_at": "2026-10-30T15:10:23+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-30",
+   "source": "Arbeitnow",
+   "company": "Tebi",
+   "location": "Amsterdam",
+   "title": "Senior Backend Engineer",
+   "tech_stack": "Java, Kafka, Docker",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/tebi/senior-backend-engineer-amsterdam-465520"
+  },
+  {
+   "date_found": "2026-10-30",
+   "source": "Arbeitnow",
+   "company": "Gridty",
+   "location": "Cologne",
+   "title": "Lead Software Engineer / Energie-Startup (m/w/d)",
+   "tech_stack": "React, TypeScript, Docker",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/gridty/lead-software-engineer-energie-startup-cologne-32422"
+  },
   {
    "date_found": "2026-10-29",
    "source": "Jobicy",
