@@ -1,7 +1,52 @@
 {
- "generated_at": "2026-10-30T15:10:23+00:00",
+ "generated_at": "2026-10-31T14:39:02+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-10-31",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "title": "Senior Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-371554"
+  },
+  {
+   "date_found": "2026-10-31",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "title": "(Senior) Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-295419"
+  },
+  {
+   "date_found": "2026-10-31",
+   "source": "Jobicy",
+   "company": "ecosio",
+   "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+   "title": "Full Stack Developer - Java & React (f/m/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/158154-full-stack-developer-java-react-f-m-d-2"
+  },
+  {
+   "date_found": "2026-10-31",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Amsterdam",
+   "title": "Senior Fullstack Engineer - Java, React (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/doctolib/senior-fullstack-engineer-java-react-amsterdam-35344"
+  },
+  {
+   "date_found": "2026-10-31",
+   "source": "Arbeitnow",
+   "company": "Deliveroo",
+   "location": "London",
+   "title": "Senior Software Engineer (Fullstack) - Merchant EMEA",
+   "tech_stack": "Java, React, TypeScript, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-fullstack-merchant-emea-london-1521"
+  },
   {
    "date_found": "2026-10-30",
    "source": "Arbeitnow",
