@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-10-31T14:39:02+00:00",
+ "generated_at": "2026-11-01T15:22:56+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-01",
+   "source": "Arbeitnow",
+   "company": "Researchgate",
+   "location": "Berlin",
+   "title": "Senior Frontend Engineer - React",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-436621"
+  },
+  {
+   "date_found": "2026-11-01",
+   "source": "Arbeitnow",
+   "company": "Finom",
+   "location": "Netherlands",
+   "title": "Engineering Manager",
+   "tech_stack": "Java, React, Kafka, Kubernetes",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/finom/engineering-manager-netherlands-239043"
+  },
+  {
+   "date_found": "2026-11-01",
+   "source": "Arbeitnow",
+   "company": "ecosio",
+   "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+   "title": "Full Stack Developer - Java & React (f/m/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706"
+  },
+  {
+   "date_found": "2026-11-01",
+   "source": "Arbeitnow",
+   "company": "Bigblue",
+   "location": "Paris",
+   "title": "Senior Software Engineer",
+   "tech_stack": "Java, React, TypeScript, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/bigblue/senior-software-engineer-paris-80586"
+  },
   {
    "date_found": "2026-10-31",
    "source": "Arbeitnow",
