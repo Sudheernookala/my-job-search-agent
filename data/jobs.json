@@ -1,7 +1,52 @@
 {
- "generated_at": "2026-11-02T18:39:53+00:00",
+ "generated_at": "2026-11-03T16:24:53+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-03",
+   "source": "Arbeitnow",
+   "company": "MRP My Recruitment Partners",
+   "location": "Berlin",
+   "title": "Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony & React",
+   "tech_stack": "React, Docker",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners/senior-fullstack-entwickler-php-symfony-react-berlin-196397"
+  },
+  {
+   "date_found": "2026-11-03",
+   "source": "Arbeitnow",
+   "company": "freshcells systems engineering GmbH",
+   "location": "Düsseldorf",
+   "title": "Senior Fullstack Engineer (H/U/M/A/N) full-time (remote/hybrid)",
+   "tech_stack": "Angular, React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/freshcells-systems-engineering-gmbh/senior-fullstack-engineer-a-n-full-time-remote-hybrid-dusseldorf-237524"
+  },
+  {
+   "date_found": "2026-11-03",
+   "source": "Arbeitnow",
+   "company": "Exeon Analytics",
+   "location": "Remote job",
+   "title": "Senior Frontend Developer",
+   "tech_stack": "React, TypeScript, Docker",
+   "contact_info": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922"
+  },
+  {
+   "date_found": "2026-11-03",
+   "source": "Arbeitnow",
+   "company": "Envalior",
+   "location": "Geleen, Netherlands",
+   "title": "Senior Tech Lead DXP",
+   "tech_stack": "React",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-tech-lead-dxp-geleen-334709"
+  },
+  {
+   "date_found": "2026-11-03",
+   "source": "Arbeitnow",
+   "company": "Envalior",
+   "location": "Geleen, Netherlands",
+   "title": "Front End Developer",
+   "tech_stack": "React",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/envalior/front-end-developer-geleen-51582"
+  },
   {
    "date_found": "2026-11-01",
    "source": "Arbeitnow",
