@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-11-04T16:28:18+00:00",
+ "generated_at": "2026-11-05T16:39:03+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-05",
+   "source": "Arbeitnow",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "title": "Director Solutions (m/f/d)",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-solutions-stuttgart-58578"
+  },
+  {
+   "date_found": "2026-11-05",
+   "source": "Arbeitnow",
+   "company": "Pennylane SAS",
+   "location": "Paris offices",
+   "title": "Growth Engineer - Data & Tracking",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-data-tracking-paris-330691"
+  },
+  {
+   "date_found": "2026-11-05",
+   "source": "Arbeitnow",
+   "company": "Muckrack",
+   "location": "Remote (Bulgaria, Canada, Ireland, United States)",
+   "title": "Senior Software Engineer, Search & AI",
+   "tech_stack": "TypeScript, Kafka",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-search-ai-82663"
+  },
+  {
+   "date_found": "2026-11-05",
+   "source": "Arbeitnow",
+   "company": "Lemlist",
+   "location": "Paris",
+   "title": "Senior Fullstack TS Developer (backend-oriented)",
+   "tech_stack": "TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-ts-developer-backend-oriented-paris-83324"
+  },
+  {
+   "date_found": "2026-11-05",
+   "source": "Arbeitnow",
+   "company": "Camunda",
+   "location": "Remote",
+   "title": "AI Process Forward Deployed Engineer",
+   "tech_stack": "Java, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/camunda/remote-ai-process-forward-deployed-engineer-32726"
+  },
+  {
+   "date_found": "2026-11-05",
+   "source": "Arbeitnow",
+   "company": "Buying Labs",
+   "location": "Hamburg",
+   "title": "Senior Full-Stack Engineer (m/f/d)",
+   "tech_stack": "React, TypeScript, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/buying-labs/senior-full-stack-engineer-hamburg-62754"
+  },
   {
    "date_found": "2026-11-04",
    "source": "Arbeitnow",
