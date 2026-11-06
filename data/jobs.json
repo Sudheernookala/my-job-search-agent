@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-11-05T16:39:03+00:00",
+ "generated_at": "2026-11-06T16:06:09+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-06",
+   "source": "Arbeitnow",
+   "company": "TecFox GmbH",
+   "location": "Berlin",
+   "title": "Senior Frontend-Softwareentwickler (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-92048"
+  },
+  {
+   "date_found": "2026-11-06",
+   "source": "Arbeitnow",
+   "company": "TecFox GmbH",
+   "location": "Berlin",
+   "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-291624"
+  },
+  {
+   "date_found": "2026-11-06",
+   "source": "Jobicy",
+   "company": "Sporty Group",
+   "location": "Europe",
+   "title": "Frontend Engineering Team Lead - MarTech",
+   "tech_stack": "Java, Spring Boot, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech"
+  },
+  {
+   "date_found": "2026-11-06",
+   "source": "Arbeitnow",
+   "company": "planetlabs",
+   "location": "Berlin",
+   "title": "Solutions Architect I, Professional Services",
+   "tech_stack": "React, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/planetlabs/solutions-architect-i-professional-services-berlin-456243"
+  },
   {
    "date_found": "2026-11-05",
    "source": "Arbeitnow",
@@ -1189,33 +1225,6 @@
    "title": "Senior Fullstack Engineer (m/f/d)",
    "tech_stack": "Java, React, TypeScript, AWS",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-fullstack-engineer-173116"
-  },
-  {
-   "date_found": "2026-10-07",
-   "source": "Jobicy",
-   "company": "Sporty Group",
-   "location": "Europe",
-   "title": "Frontend Engineering Team Lead - MarTech",
-   "tech_stack": "Java, Spring Boot, TypeScript, Kubernetes, AWS",
-   "contact_info": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech"
-  },
-  {
-   "date_found": "2026-10-07",
-   "source": "Jobicy",
-   "company": "infisical",
-   "location": "Brazil,  Canada,  Europe,  USA",
-   "title": "Senior Full Stack Engineer",
-   "tech_stack": "React, TypeScript, AWS",
-   "contact_info": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4"
-  },
-  {
-   "date_found": "2026-10-07",
-   "source": "Arbeitnow",
-   "company": "Eye Security",
-   "location": "Berlin - hybrid",
-   "title": "Senior Software Engineer (m/f/x)",
-   "tech_stack": "Java, React, TypeScript",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/eye-security/senior-software-engineer-berlin-248595"
   }
  ]
 }
