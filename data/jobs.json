@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-11-08T15:28:37+00:00",
+ "generated_at": "2026-11-09T18:59:32+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-09",
+   "source": "Arbeitnow",
+   "company": "Roku",
+   "location": "Cambridge",
+   "title": "Senior Software Engineer, Embedded UI",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-embedded-ui-cambridge-286314"
+  },
+  {
+   "date_found": "2026-11-09",
+   "source": "Arbeitnow",
+   "company": "isento GmbH",
+   "location": "Nuremberg",
+   "title": "Senior Software Developer – Fullstack Java & Angular (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-fullstack-java-angular-nuremberg-257473"
+  },
+  {
+   "date_found": "2026-11-09",
+   "source": "Jobicy",
+   "company": "Dataiku",
+   "location": "France,  Germany,  Netherlands,  Spain,  UK",
+   "title": "Fullstack Software Engineer - Core",
+   "tech_stack": "Java, Angular, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core"
+  },
+  {
+   "date_found": "2026-11-09",
+   "source": "Arbeitnow",
+   "company": "Accso – Accelerated Solutions GmbH",
+   "location": "Darmstadt",
+   "title": "Senior Fullstack Entwickler - Java, Spring, Angular*",
+   "tech_stack": "Java, Angular, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-fullstack-entwickler-java-spring-angular-darmstadt-457137"
+  },
+  {
+   "date_found": "2026-11-09",
+   "source": "Arbeitnow",
+   "company": "Accso – Accelerated Solutions GmbH",
+   "location": "Frankfurt am Main",
+   "title": "Senior Frontend Developer Angular*",
+   "tech_stack": "Java, Angular, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-frontend-developer-angular-frankfurt-am-main-427198"
+  },
+  {
+   "date_found": "2026-11-09",
+   "source": "Arbeitnow",
+   "company": "Accso – Accelerated Solutions GmbH",
+   "location": "Frankfurt am Main",
+   "title": "Senior Software Security Engineer*",
+   "tech_stack": "Java, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-software-security-engineer-frankfurt-am-main-375296"
+  },
   {
    "date_found": "2026-11-08",
    "source": "Arbeitnow",
@@ -1108,33 +1162,6 @@
    "title": "Senior QA Engineer (gn)",
    "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-298617"
-  },
-  {
-   "date_found": "2026-10-10",
-   "source": "Arbeitnow",
-   "company": "Perk",
-   "location": "London",
-   "title": "Senior PR Manager",
-   "tech_stack": "Java, Spring Boot",
-   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-482991"
-  },
-  {
-   "date_found": "2026-10-10",
-   "source": "Arbeitnow",
-   "company": "freiheit.com technologies",
-   "location": "Hamburg",
-   "title": "Hackers wanted – Senior Software Engineer",
-   "tech_stack": "Java, Angular, TypeScript",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-senior-software-engineer-hamburg-118878"
-  },
-  {
-   "date_found": "2026-10-10",
-   "source": "Arbeitnow",
-   "company": "Decathlontechnology",
-   "location": "Paris, Paris",
-   "title": "Full Stack Developer - Data Factory (f/m/d)",
-   "tech_stack": "Java, Angular, React, TypeScript, Kubernetes, AWS",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-developer-data-factory-paris-paris-431050"
   }
  ]
 }
