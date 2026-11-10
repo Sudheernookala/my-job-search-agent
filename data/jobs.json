@@ -1,7 +1,70 @@
 {
- "generated_at": "2026-11-09T18:59:32+00:00",
+ "generated_at": "2026-11-10T16:31:41+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-10",
+   "source": "Jobicy",
+   "company": "Wellhub",
+   "location": "Portugal",
+   "title": "Frontend Manager Software Engineer (Hands-On) | Partners Acquisition",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://jobicy.com/jobs/160680-frontend-manager-software-engineer-hands-on-partners-acquisition"
+  },
+  {
+   "date_found": "2026-11-10",
+   "source": "Arbeitnow",
+   "company": "Univé",
+   "location": "Zwolle, Overijssel, Nederland",
+   "title": "Senior Bloomreach & Java Developer",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/unive/senior-bloomreach-java-developer-zwolle-154323"
+  },
+  {
+   "date_found": "2026-11-10",
+   "source": "Jobicy",
+   "company": "PubNub",
+   "location": "Poland",
+   "title": "Senior GTM Engineer",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/161067-senior-gtm-engineer"
+  },
+  {
+   "date_found": "2026-11-10",
+   "source": "Arbeitnow",
+   "company": "Momo Medical",
+   "location": "Delft, Zuid-Holland, Netherlands",
+   "title": "Medior/Senior Full Stack Developer",
+   "tech_stack": "React, TypeScript, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/momo-medical/medior-senior-full-stack-developer-delft-484749"
+  },
+  {
+   "date_found": "2026-11-10",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris",
+   "title": "Senior AI Engineer - Search & Recommendation - Patient Team (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-engineer-search-recommendation-patient-team-levallois-perret-79317"
+  },
+  {
+   "date_found": "2026-11-10",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris",
+   "title": "Senior Software Engineer - Python (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, Kafka, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-software-engineer-python-levallois-perret-368130"
+  },
+  {
+   "date_found": "2026-11-10",
+   "source": "Arbeitnow",
+   "company": "adjoe",
+   "location": "Hamburg",
+   "title": "Tech Director - Mobile (f/m/d)",
+   "tech_stack": "Java, React, TypeScript, Kafka, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/adjoe/tech-director-mobile-hamburg-408093"
+  },
   {
    "date_found": "2026-11-09",
    "source": "Arbeitnow",
@@ -1144,24 +1207,6 @@
    "title": "Python Engineer – Web Crawling & Data Extraction (m/f/d)",
    "tech_stack": "Java, Spring Boot, React, Docker, Kubernetes, AWS",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/certivity/python-engineer-web-crawling-data-extraction-munchen-hq-492504"
-  },
-  {
-   "date_found": "2026-10-11",
-   "source": "Arbeitnow",
-   "company": "Valtech",
-   "location": "EU Remote",
-   "title": "FR - Tech Lead Coremedia",
-   "tech_stack": "Java, Spring Boot, React, TypeScript, Docker, Kubernetes, AWS",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/valtech/fr-tech-lead-coremedia-142170"
-  },
-  {
-   "date_found": "2026-10-11",
-   "source": "Arbeitnow",
-   "company": "Bikeleasing",
-   "location": "Remote Deutschland",
-   "title": "Senior QA Engineer (gn)",
-   "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-298617"
   }
  ]
 }
