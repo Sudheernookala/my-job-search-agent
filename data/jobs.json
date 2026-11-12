@@ -1,7 +1,106 @@
 {
- "generated_at": "2026-11-11T16:27:08+00:00",
+ "generated_at": "2026-11-12T16:58:07+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-12",
+   "source": "Jobicy",
+   "company": "Zone &#038; Co",
+   "location": "UK",
+   "title": "GTM Engineer",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://jobicy.com/jobs/155142-gtm-engineer-4"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "Zilch",
+   "location": "Zilch UK",
+   "title": "Engineering Manager II",
+   "tech_stack": "Java, React, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/zilch/engineering-manager-ii-london-180144"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Jobicy",
+   "company": "Smartsheet",
+   "location": "Bulgaria",
+   "title": "Software Engineer (Remote Eligible in Bulgaria)",
+   "tech_stack": "Java, React, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/155069-software-engineer-remote-eligible-in-bulgaria"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Jobicy",
+   "company": "Reedsy",
+   "location": "Europe",
+   "title": "Senior Frontend Engineer - Remote Europe",
+   "tech_stack": "TypeScript",
+   "contact_info": "https://jobicy.com/jobs/161371-senior-frontend-engineer-remote-europe"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "PharmaPartners",
+   "location": "Oosterhout, Noord-Brabant, Nederland",
+   "title": "AI Engineer AivyCare",
+   "tech_stack": "Java, Spring Boot, React",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/pharmapartners/ai-engineer-aivycare-oosterhout-378265"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "Pelico",
+   "location": "Paris",
+   "title": "Tech Lead - Platform",
+   "tech_stack": "Java, React, TypeScript, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-platform-paris-279190"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "Pelico",
+   "location": "Paris",
+   "title": "Tech Lead - Solutions",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-solutions-paris-61815"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "NXT Hero GmbH",
+   "location": "Pforzheim",
+   "title": "Lead Fullstackenwtickler:in",
+   "tech_stack": "Spring Boot, Angular, TypeScript, Docker",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/lead-fullstackenwticklerin-pforzheim-285583"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "Kryptos Technologies limited",
+   "location": "London",
+   "title": "AWS AI Solution Architect",
+   "tech_stack": "Java, Spring Boot, React, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/aws-ai-solution-architect-london-75627"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "INES Analytics",
+   "location": "Berlin",
+   "title": "Fullstack Developer*in (Python/Django & React) Mid-Level / Senior",
+   "tech_stack": "React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/ines-analytics/fullstack-developerin-python-django-react-mid-level-senior-berlin-8621"
+  },
+  {
+   "date_found": "2026-11-12",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Berlin",
+   "title": "Engineering Manager - Design System (x/f/m)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-design-system-berlin-432188"
+  },
   {
    "date_found": "2026-11-11",
    "source": "Arbeitnow",
@@ -1117,60 +1216,6 @@
    "title": "Engineering Manager - Sport Process - Worldwide Offer (f/m/d)",
    "tech_stack": "Java, Spring Boot, Kafka, Kubernetes",
    "contact_info": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/engineering-manager-sport-process-worldwide-offer-lille-btwin-village-nord-183173"
-  },
-  {
-   "date_found": "2026-10-13",
-   "source": "Arbeitnow",
-   "company": "Tavily",
-   "location": "EU Remote",
-   "title": "Senior Software Engineer (Agentic Search) – Web Rendering Engineer",
-   "tech_stack": "Angular, React",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/tavily/senior-software-engineer-agentic-search-web-rendering-engineer-444896"
-  },
-  {
-   "date_found": "2026-10-13",
-   "source": "Jobicy",
-   "company": "Smartsheet",
-   "location": "Bulgaria",
-   "title": "Sr. Software Engineer (Remote Eligible from Bulgaria)",
-   "tech_stack": "Java, React, AWS",
-   "contact_info": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria"
-  },
-  {
-   "date_found": "2026-10-13",
-   "source": "Arbeitnow",
-   "company": "Pelico",
-   "location": "Paris",
-   "title": "Tech Lead - Platform",
-   "tech_stack": "Java, React, TypeScript, Kubernetes",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-platform-paris-355949"
-  },
-  {
-   "date_found": "2026-10-13",
-   "source": "Arbeitnow",
-   "company": "Pelico",
-   "location": "Paris",
-   "title": "Tech Lead - Solutions",
-   "tech_stack": "Java, React, TypeScript",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pelico/tech-lead-solutions-paris-46303"
-  },
-  {
-   "date_found": "2026-10-13",
-   "source": "Arbeitnow",
-   "company": "MILES Mobility",
-   "location": "Berlin",
-   "title": "Senior React Native Engineer - App Owner (w/m/x/d)",
-   "tech_stack": "Java, React, TypeScript",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-react-native-engineer-app-owner-d-berlin-421435"
-  },
-  {
-   "date_found": "2026-10-13",
-   "source": "Arbeitnow",
-   "company": "Keylane",
-   "location": "Utrecht, Netherlands",
-   "title": "Medior / Senior Java Software Engineer",
-   "tech_stack": "Java, Angular, Docker",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/keylane/medior-senior-java-software-engineer-utrecht-259177"
   }
  ]
 }
