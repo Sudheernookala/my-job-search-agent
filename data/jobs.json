@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-11-13T16:39:29+00:00",
+ "generated_at": "2026-11-14T15:15:22+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-14",
+   "source": "Jobicy",
+   "company": "Wayflyer",
+   "location": "Europe",
+   "title": "Frontend Software Engineer",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/161933-frontend-software-engineer"
+  },
+  {
+   "date_found": "2026-11-14",
+   "source": "Arbeitnow",
+   "company": "vitaservices GmbH & Co. KG",
+   "location": "Berlin",
+   "title": "AI-Native Software Engineer (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/vitaservices-gmbh-co-kg/ai-native-software-engineer-berlin-186419"
+  },
+  {
+   "date_found": "2026-11-14",
+   "source": "Arbeitnow",
+   "company": "Spread Group",
+   "location": "Leipzig, Sachsen, Germany",
+   "title": "Fullstack Engineer (f/m/d)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/spread-group/fullstack-engineer-leipzig-367682"
+  },
+  {
+   "date_found": "2026-11-14",
+   "source": "Arbeitnow",
+   "company": "shifttechnology",
+   "location": "EU Remote",
+   "title": "QA Engineer Intern (6 months)",
+   "tech_stack": "React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-333718"
+  },
+  {
+   "date_found": "2026-11-14",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Berlin",
+   "title": "Senior Backend Engineer - Java/Kotlin (x/f/m)",
+   "tech_stack": "Java, React, TypeScript, Kafka",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-backend-engineer-java-kotlin-berlin-325851"
+  },
+  {
+   "date_found": "2026-11-14",
+   "source": "Arbeitnow",
+   "company": "Atolls",
+   "location": "Berlin, Germany",
+   "title": "Senior Software Engineer (Java/SpringBoot) (m/f/x)",
+   "tech_stack": "Java, Angular, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-berlin-360380"
+  },
   {
    "date_found": "2026-11-13",
    "source": "Arbeitnow",
@@ -1117,60 +1171,6 @@
    "title": "Solution Engineer (f/m/d)",
    "tech_stack": "Java, React, AWS",
    "contact_info": "https://www.arbeitnow.fr/jobs/companies/idnow/solution-engineer-rennes-ille-et-vilaine-342860"
-  },
-  {
-   "date_found": "2026-10-15",
-   "source": "Arbeitnow",
-   "company": "Pennylane SAS",
-   "location": "All France (remote)",
-   "title": "Fullstack Software Engineer RoR/JS W/M",
-   "tech_stack": "Java, Spring Boot",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/fullstack-software-engineer-ror-js-w-m-paris-363056"
-  },
-  {
-   "date_found": "2026-10-15",
-   "source": "Arbeitnow",
-   "company": "Mirakl - Labs",
-   "location": "Paris, France",
-   "title": "Software Engineer Intern - Financial Services",
-   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kafka, Docker",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886"
-  },
-  {
-   "date_found": "2026-10-15",
-   "source": "Arbeitnow",
-   "company": "Mirakl - Labs",
-   "location": "Paris, France",
-   "title": "Software Engineer Apprentice - Connect",
-   "tech_stack": "Java, Spring Boot, Kafka, Docker",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-apprentice-connect-paris-150457"
-  },
-  {
-   "date_found": "2026-10-15",
-   "source": "Arbeitnow",
-   "company": "Conflux",
-   "location": "Utrecht, Utrecht, Nederland",
-   "title": "Senior Java Developer",
-   "tech_stack": "Java, AWS",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/conflux/senior-java-developer-utrecht-224467"
-  },
-  {
-   "date_found": "2026-10-15",
-   "source": "Arbeitnow",
-   "company": "Adikteev",
-   "location": "Remote job",
-   "title": "Staff Site Reliability Engineer",
-   "tech_stack": "AWS",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394"
-  },
-  {
-   "date_found": "2026-10-15",
-   "source": "Arbeitnow",
-   "company": "Accso – Accelerated Solutions GmbH",
-   "location": "Darmstadt",
-   "title": "Senior Fullstack Entwickler - Java, Spring, Angular*",
-   "tech_stack": "Java, Angular, React",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-fullstack-entwickler-java-spring-angular-darmstadt-138755"
   }
  ]
 }
