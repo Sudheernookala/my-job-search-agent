@@ -1,7 +1,25 @@
 {
- "generated_at": "2026-11-14T15:15:22+00:00",
+ "generated_at": "2026-11-15T15:46:14+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-15",
+   "source": "Arbeitnow",
+   "company": "Finom",
+   "location": "Berlin",
+   "title": "Engineering Manager",
+   "tech_stack": "Java, React, Kafka, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/finom/engineering-manager-berlin-258285"
+  },
+  {
+   "date_found": "2026-11-15",
+   "source": "Arbeitnow",
+   "company": "engelhart",
+   "location": "Berlin",
+   "title": "Software Engineer, Data",
+   "tech_stack": "React, TypeScript, Kafka, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/engelhart/software-engineer-data-berlin-351586"
+  },
   {
    "date_found": "2026-11-14",
    "source": "Jobicy",
@@ -1153,24 +1171,6 @@
    "title": "Cybersecurity Intern",
    "tech_stack": "TypeScript, Docker, Kubernetes",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050"
-  },
-  {
-   "date_found": "2026-10-16",
-   "source": "Arbeitnow",
-   "company": "mirakllabs",
-   "location": "Paris",
-   "title": "Software Engineer Intern - Financial Services",
-   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kafka, Docker",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168"
-  },
-  {
-   "date_found": "2026-10-16",
-   "source": "Arbeitnow",
-   "company": "idnow",
-   "location": "Rennes, Ille-et-Vilaine",
-   "title": "Solution Engineer (f/m/d)",
-   "tech_stack": "Java, React, AWS",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/idnow/solution-engineer-rennes-ille-et-vilaine-342860"
   }
  ]
 }
