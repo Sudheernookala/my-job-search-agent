@@ -1,7 +1,25 @@
 {
- "generated_at": "2026-11-15T15:46:14+00:00",
+ "generated_at": "2026-11-16T18:45:38+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-16",
+   "source": "Arbeitnow",
+   "company": "Girona Softwareentwicklung GmbH",
+   "location": "Berlin",
+   "title": "Senior Fullstack-Entwickler (m/w/d) – PHP/Symfony & React",
+   "tech_stack": "React, Docker",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/girona-softwareentwicklung-gmbh/senior-fullstack-entwickler-php-symfony-react-berlin-138029"
+  },
+  {
+   "date_found": "2026-11-16",
+   "source": "Jobicy",
+   "company": "Fever",
+   "location": "Spain",
+   "title": "Staff Product Design Engineer — Data",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://jobicy.com/jobs/162577-staff-product-design-engineer-data"
+  },
   {
    "date_found": "2026-11-15",
    "source": "Arbeitnow",
@@ -1162,15 +1180,6 @@
    "title": "Senior Software Engineer, Growth",
    "tech_stack": "React, TypeScript, Docker, Kubernetes, AWS",
    "contact_info": "https://jobicy.com/jobs/155618-senior-software-engineer-growth-2"
-  },
-  {
-   "date_found": "2026-10-17",
-   "source": "Arbeitnow",
-   "company": "Sereact GmbH",
-   "location": "Stuttgart Schockenriedstr. 17",
-   "title": "Cybersecurity Intern",
-   "tech_stack": "TypeScript, Docker, Kubernetes",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/cybersecurity-intern-stuttgart-351050"
   }
  ]
 }
