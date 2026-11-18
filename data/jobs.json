@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-11-17T17:44:42+00:00",
+ "generated_at": "2026-11-18T17:26:14+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-18",
+   "source": "Arbeitnow",
+   "company": "Swisscom",
+   "location": "Rotterdam, Zuid-Holland, Netherlands",
+   "title": "Fullstack DevOps Engineer (Trust and Identity)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/swisscom/fullstack-devops-engineer-trust-and-identity-rotterdam-10345"
+  },
+  {
+   "date_found": "2026-11-18",
+   "source": "Arbeitnow",
+   "company": "Rockstardevelopers GmbH",
+   "location": "Stuttgart",
+   "title": "Senior Fullstack Developer Angular / Kotlin – Spring Boot, AWS (m/w/d)",
+   "tech_stack": "Spring Boot, Angular, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767"
+  },
+  {
+   "date_found": "2026-11-18",
+   "source": "Arbeitnow",
+   "company": "databricks",
+   "location": "Zürich",
+   "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+   "tech_stack": "TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-425880"
+  },
+  {
+   "date_found": "2026-11-18",
+   "source": "Jobicy",
+   "company": "Bloomreach",
+   "location": "Europe",
+   "title": "Staff Software Engineer - Python, Java / Spring or Go",
+   "tech_stack": "Java, Angular, React, TypeScript, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go"
+  },
   {
    "date_found": "2026-11-17",
    "source": "Arbeitnow",
@@ -1099,33 +1135,6 @@
    "title": "Staff Engineer",
    "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/andercore/staff-engineer-berlin-165964"
-  },
-  {
-   "date_found": "2026-10-19",
-   "source": "Jobicy",
-   "company": "Skedda",
-   "location": "Europe",
-   "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
-   "tech_stack": "Java",
-   "contact_info": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2"
-  },
-  {
-   "date_found": "2026-10-19",
-   "source": "Arbeitnow",
-   "company": "Natalie Felsinger Consulting",
-   "location": "Frechen",
-   "title": "Senior Java Fullstack Developer (m/w/d)",
-   "tech_stack": "Java, Spring Boot, Angular, React, AWS",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/natalie-felsinger-consulting/senior-java-fullstack-developer-frechen-256898"
-  },
-  {
-   "date_found": "2026-10-19",
-   "source": "Jobicy",
-   "company": "Bloomreach",
-   "location": "Europe",
-   "title": "Staff Software Engineer - Python, Java / Spring or Go",
-   "tech_stack": "Java, Angular, React, TypeScript, Kafka, Docker, Kubernetes, AWS",
-   "contact_info": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go"
   }
  ]
 }
