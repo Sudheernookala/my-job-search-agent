@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-11-18T17:26:14+00:00",
+ "generated_at": "2026-11-19T17:31:51+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-19",
+   "source": "Arbeitnow",
+   "company": "mirakllabs",
+   "location": "Paris",
+   "title": "Junior Software Engineer Java",
+   "tech_stack": "Java, Spring Boot, React, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/junior-software-engineer-java-paris-407602"
+  },
+  {
+   "date_found": "2026-11-19",
+   "source": "Arbeitnow",
+   "company": "Lemlist",
+   "location": "Paris",
+   "title": "Technical Lead - Fullstack JS/TS",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/lemlist/technical-lead-fullstack-js-ts-paris-34050"
+  },
+  {
+   "date_found": "2026-11-19",
+   "source": "Arbeitnow",
+   "company": "DPG Media",
+   "location": "Hilversum, Noord-Holland, Nederland",
+   "title": "SEO Content Specialist",
+   "tech_stack": "Java, Spring Boot",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/dpg-media/seo-content-specialist-hilversum-241614"
+  },
+  {
+   "date_found": "2026-11-19",
+   "source": "Arbeitnow",
+   "company": "DPG Media",
+   "location": "Hilversum, Noord-Holland, Nederland",
+   "title": "Senior Fullstack Developer",
+   "tech_stack": "Angular, TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/dpg-media/senior-fullstack-developer-hilversum-272619"
+  },
+  {
+   "date_found": "2026-11-19",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Nantes",
+   "title": "AI Engineer Intern (x/f/m) - Nantes",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/ai-engineer-intern-nantes-31566"
+  },
+  {
+   "date_found": "2026-11-19",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Paris",
+   "title": "AI Engineer Intern (x/f/m) - Paris",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/ai-engineer-intern-paris-levallois-perret-228534"
+  },
   {
    "date_found": "2026-11-18",
    "source": "Arbeitnow",
@@ -1099,42 +1153,6 @@
    "title": "Account Solution Architect",
    "tech_stack": "Kubernetes",
    "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/account-solution-architect-london-475102"
-  },
-  {
-   "date_found": "2026-10-20",
-   "source": "Arbeitnow",
-   "company": "Swisscom",
-   "location": "Rotterdam, Zuid-Holland, Netherlands",
-   "title": "Senior DevOps Engineer",
-   "tech_stack": "Java, Spring Boot, Angular",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/swisscom/senior-devops-engineer-rotterdam-135896"
-  },
-  {
-   "date_found": "2026-10-20",
-   "source": "Jobicy",
-   "company": "infisical",
-   "location": "Brazil,  Canada,  Europe,  USA",
-   "title": "Senior Full Stack Engineer",
-   "tech_stack": "React, TypeScript, AWS",
-   "contact_info": "https://jobicy.com/jobs/155949-senior-full-stack-engineer-8"
-  },
-  {
-   "date_found": "2026-10-20",
-   "source": "Arbeitnow",
-   "company": "Buying Labs",
-   "location": "Hamburg",
-   "title": "Senior Full-Stack Engineer (m/f/d)",
-   "tech_stack": "React, TypeScript, Docker, AWS",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/buying-labs/senior-full-stack-engineer-hamburg-306603"
-  },
-  {
-   "date_found": "2026-10-20",
-   "source": "Arbeitnow",
-   "company": "Andercore",
-   "location": "Berlin",
-   "title": "Staff Engineer",
-   "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/andercore/staff-engineer-berlin-165964"
   }
  ]
 }
