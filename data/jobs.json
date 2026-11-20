@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-11-19T17:31:51+00:00",
+ "generated_at": "2026-11-20T17:06:07+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-20",
+   "source": "Arbeitnow",
+   "company": "TecFox GmbH",
+   "location": "Berlin",
+   "title": "Senior Frontend-Softwareentwickler (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-369838"
+  },
+  {
+   "date_found": "2026-11-20",
+   "source": "Arbeitnow",
+   "company": "TecFox GmbH",
+   "location": "Berlin",
+   "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, Kafka, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-416666"
+  },
+  {
+   "date_found": "2026-11-20",
+   "source": "Arbeitnow",
+   "company": "Plentific",
+   "location": "London Office",
+   "title": "Senior Frontend Engineer",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/plentific/senior-frontend-engineer-london-90110"
+  },
+  {
+   "date_found": "2026-11-20",
+   "source": "Arbeitnow",
+   "company": "Firstlead GmbH",
+   "location": "Berlin",
+   "title": "CTO (m/w/d) – Tech-Lead mit strategischem Weitblick & Hands-on-Mentalität",
+   "tech_stack": "Angular, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/cto-tech-lead-mit-strategischem-weitblick-hands-on-mentalitat-berlin-407175"
+  },
+  {
+   "date_found": "2026-11-20",
+   "source": "Arbeitnow",
+   "company": "Catawiki",
+   "location": "Amsterdam",
+   "title": "Frontend Engineer",
+   "tech_stack": "TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/catawiki/frontend-engineer-amsterdam-14154"
+  },
+  {
+   "date_found": "2026-11-20",
+   "source": "Arbeitnow",
+   "company": "Banyansoftware",
+   "location": "EU Remote",
+   "title": "Forward Deployed Engineer",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/banyansoftware/forward-deployed-engineer-104281"
+  },
   {
    "date_found": "2026-11-19",
    "source": "Arbeitnow",
@@ -1144,15 +1198,6 @@
    "title": "Full Stack Developer",
    "tech_stack": "Java, Angular, React, TypeScript",
    "contact_info": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496"
-  },
-  {
-   "date_found": "2026-10-21",
-   "source": "Arbeitnow",
-   "company": "Coreweave",
-   "location": "London",
-   "title": "Account Solution Architect",
-   "tech_stack": "Kubernetes",
-   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/account-solution-architect-london-475102"
   }
  ]
 }
