@@ -1,7 +1,52 @@
 {
- "generated_at": "2026-11-20T17:06:07+00:00",
+ "generated_at": "2026-11-21T16:18:17+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-21",
+   "source": "Arbeitnow",
+   "company": "Veepee",
+   "location": "Paris",
+   "title": "Full-Stack Developer – Monitoring Services (W/M/X)",
+   "tech_stack": "TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/veepee/full-stack-developer-monitoring-services-paris-218397"
+  },
+  {
+   "date_found": "2026-11-21",
+   "source": "Arbeitnow",
+   "company": "Mendix",
+   "location": "Munich",
+   "title": "Senior Mendix Engineer",
+   "tech_stack": "Java, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-76612"
+  },
+  {
+   "date_found": "2026-11-21",
+   "source": "Arbeitnow",
+   "company": "Intetics 2",
+   "location": "Germany",
+   "title": "1226 | Front-end Developer",
+   "tech_stack": "React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712"
+  },
+  {
+   "date_found": "2026-11-21",
+   "source": "Arbeitnow",
+   "company": "Getyourguide",
+   "location": "Berlin",
+   "title": "Senior Sofware Engineer, Operational Excellence",
+   "tech_stack": "Java, React, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/getyourguide/senior-sofware-engineer-operational-excellence-berlin-62785"
+  },
+  {
+   "date_found": "2026-11-21",
+   "source": "Arbeitnow",
+   "company": "Getyourguide",
+   "location": "Berlin",
+   "title": "Staff Software Engineer, Operational Excellence",
+   "tech_stack": "Java, React, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/getyourguide/staff-software-engineer-operational-excellence-berlin-235388"
+  },
   {
    "date_found": "2026-11-20",
    "source": "Arbeitnow",
@@ -1153,51 +1198,6 @@
    "title": "Senior Software Engineer, Payments Platform",
    "tech_stack": "Java, Spring Boot, React, Kafka, Docker, Kubernetes, AWS",
    "contact_info": "https://www.arbeitnow.nl/jobs/companies/airwallex/senior-software-engineer-payments-platform-amsterdam-175739"
-  },
-  {
-   "date_found": "2026-10-22",
-   "source": "Jobicy",
-   "company": "Zone &#038; Co",
-   "location": "Czechia",
-   "title": "AI Software Engineer",
-   "tech_stack": "AWS",
-   "contact_info": "https://jobicy.com/jobs/153823-ai-software-engineer"
-  },
-  {
-   "date_found": "2026-10-22",
-   "source": "Arbeitnow",
-   "company": "TecFox GmbH",
-   "location": "Berlin",
-   "title": "Senior Fullstack-Softwareentwickler (m/w/d)",
-   "tech_stack": "Java, Spring Boot, Angular, React, Kafka, Docker, Kubernetes, AWS",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-fullstack-softwareentwickler-berlin-133162"
-  },
-  {
-   "date_found": "2026-10-22",
-   "source": "Arbeitnow",
-   "company": "TecFox GmbH",
-   "location": "Berlin",
-   "title": "Senior Frontend-Softwareentwickler (m/w/d)",
-   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-422309"
-  },
-  {
-   "date_found": "2026-10-22",
-   "source": "Arbeitnow",
-   "company": "Grip",
-   "location": "Remote job",
-   "title": "Principal Engineer (Software Engineering/Devops)",
-   "tech_stack": "React, TypeScript, AWS",
-   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/grip/remote-principal-engineer-software-engineering-devops-62745"
-  },
-  {
-   "date_found": "2026-10-22",
-   "source": "Arbeitnow",
-   "company": "GradeMatch",
-   "location": "Eindhoven, Noord-Brabant, Nederland",
-   "title": "Full Stack Developer",
-   "tech_stack": "Java, Angular, React, TypeScript",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/gradematch/full-stack-developer-eindhoven-293496"
   }
  ]
 }
