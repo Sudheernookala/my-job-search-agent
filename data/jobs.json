@@ -1,7 +1,34 @@
 {
- "generated_at": "2026-11-21T16:18:17+00:00",
+ "generated_at": "2026-11-22T16:31:05+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-22",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "title": "Senior Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-347741"
+  },
+  {
+   "date_found": "2026-11-22",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "title": "(Senior) Java Fullstack Developer (m/w/d)",
+   "tech_stack": "Java, React",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-hamburg-293678"
+  },
+  {
+   "date_found": "2026-11-22",
+   "source": "Arbeitnow",
+   "company": "Boardwise GmbH",
+   "location": "Berlin",
+   "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400"
+  },
   {
    "date_found": "2026-11-21",
    "source": "Arbeitnow",
@@ -1126,78 +1153,6 @@
    "title": "Forward Deployed Engineer",
    "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
    "contact_info": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Whitevision B.V.",
-   "location": "Breda, Noord-Brabant, Nederland",
-   "title": "Senior Implementatie Consultant SaaS, €4.250 – €6.000 | Breda",
-   "tech_stack": "Java, Spring Boot",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/whitevision-bv/senior-implementatie-consultant-saas-eur4250-eur6000-breda-408432"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Whitevision B.V.",
-   "location": "Zoetermeer, Zuid-Holland, Nederland",
-   "title": "Senior Implementatie Consultant SaaS, €4.250 – €6.000 | Zoetermeer",
-   "tech_stack": "Java, Spring Boot",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/whitevision-bv/senior-implementatie-consultant-saas-eur4250-eur6000-zoetermeer-271006"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Staffbase",
-   "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen",
-   "title": "Staff Engineer - Fullstack - Actions",
-   "tech_stack": "Java, React, TypeScript, Docker",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/staffbase/staff-engineer-fullstack-actions-berlin-chemnitz-sachsen-dresden-sachsen-256251"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Staffbase",
-   "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen; Köln, Nordrhein-Westfalen; München, Bayern",
-   "title": "Join Our Talent Community: Solutions Engineer",
-   "tech_stack": "Java",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/staffbase/join-our-talent-community-solutions-engineer-berlin-chemnitz-sachsen-dresden-sachsen-koln-nordrhein-westfalen-munchen-bayern-181611"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Jobicy",
-   "company": "Canonical",
-   "location": "EMEA",
-   "title": "Engineering Director - Commercial Systems",
-   "tech_stack": "Java",
-   "contact_info": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Banyansoftware",
-   "location": "EU Remote",
-   "title": "Forward Deployed Engineer",
-   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/banyansoftware/forward-deployed-engineer-354025"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Airwallex",
-   "location": "NL - Amsterdam",
-   "title": "Staff Software Engineer, Payments",
-   "tech_stack": "Java, Spring Boot, React, Kafka, Docker, Kubernetes, AWS",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/airwallex/staff-software-engineer-payments-amsterdam-298606"
-  },
-  {
-   "date_found": "2026-10-23",
-   "source": "Arbeitnow",
-   "company": "Airwallex",
-   "location": "NL - Amsterdam",
-   "title": "Senior Software Engineer, Payments Platform",
-   "tech_stack": "Java, Spring Boot, React, Kafka, Docker, Kubernetes, AWS",
-   "contact_info": "https://www.arbeitnow.nl/jobs/companies/airwallex/senior-software-engineer-payments-platform-amsterdam-175739"
   }
  ]
 }
