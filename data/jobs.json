@@ -1,7 +1,52 @@
 {
- "generated_at": "2026-11-22T16:31:05+00:00",
+ "generated_at": "2026-11-23T20:26:45+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-23",
+   "source": "Arbeitnow",
+   "company": "Würth Cloud Services GmbH",
+   "location": "Berlin",
+   "title": "Full-Stack Developer (m/f/d)",
+   "tech_stack": "React, TypeScript, Docker, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/wurth-cloud-services-gmbh/full-stack-developer-berlin-134377"
+  },
+  {
+   "date_found": "2026-11-23",
+   "source": "Arbeitnow",
+   "company": "virtual7 GmbH",
+   "location": "Karlsruhe",
+   "title": "Senior Java Developer im GKV Umfeld (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kafka, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-developer-im-gkv-umfeld-karlsruhe-295199"
+  },
+  {
+   "date_found": "2026-11-23",
+   "source": "Arbeitnow",
+   "company": "isento GmbH",
+   "location": "Nuremberg",
+   "title": "Senior Software Developer – Fullstack Java & Angular (m/w/d)",
+   "tech_stack": "Java, Spring Boot, Angular",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-fullstack-java-angular-nuremberg-421383"
+  },
+  {
+   "date_found": "2026-11-23",
+   "source": "Arbeitnow",
+   "company": "Gridty",
+   "location": "Cologne",
+   "title": "(Lead-) Software Engineer / Energie-Startup (m/w/d)",
+   "tech_stack": "React, TypeScript, Docker",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/gridty/lead-software-engineer-energie-startup-cologne-30264"
+  },
+  {
+   "date_found": "2026-11-23",
+   "source": "Arbeitnow",
+   "company": "Blablacar",
+   "location": "Paris, France",
+   "title": "Confirmed Backend Engineer - Booking Squad",
+   "tech_stack": "Java, Spring Boot, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/blablacar/confirmed-backend-engineer-booking-squad-paris-france-442318"
+  },
   {
    "date_found": "2026-11-22",
    "source": "Arbeitnow",
@@ -1108,51 +1153,6 @@
    "title": "Senior Engineering Manager - Payment",
    "tech_stack": "Java",
    "contact_info": "https://www.arbeitnow.fr/jobs/companies/malt/senior-engineering-manager-payment-paris-261962"
-  },
-  {
-   "date_found": "2026-10-24",
-   "source": "Arbeitnow",
-   "company": "Doctolib",
-   "location": "Paris, Paris",
-   "title": "Senior AI Engineer - Search & Recommendation - Patient Team (x/f/m)",
-   "tech_stack": "Java, React, TypeScript, AWS",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-engineer-search-recommendation-patient-team-paris-paris-428774"
-  },
-  {
-   "date_found": "2026-10-24",
-   "source": "Arbeitnow",
-   "company": "Doctolib",
-   "location": "Paris, Paris",
-   "title": "Senior AI Engineer - Patient Team (x/f/m)",
-   "tech_stack": "Java, React, TypeScript, AWS",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ai-engineer-patient-team-paris-paris-437192"
-  },
-  {
-   "date_found": "2026-10-24",
-   "source": "Jobicy",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "title": "Engineering Manager",
-   "tech_stack": "React, TypeScript",
-   "contact_info": "https://jobicy.com/jobs/149575-engineering-manager"
-  },
-  {
-   "date_found": "2026-10-24",
-   "source": "Jobicy",
-   "company": "Canonical",
-   "location": "Anywhere",
-   "title": "Software Engineering Director",
-   "tech_stack": "React, TypeScript",
-   "contact_info": "https://jobicy.com/jobs/149571-software-engineering-director"
-  },
-  {
-   "date_found": "2026-10-24",
-   "source": "Jobicy",
-   "company": "Banyan Software",
-   "location": "Belgium,  Germany,  Netherlands,  UK",
-   "title": "Forward Deployed Engineer",
-   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
-   "contact_info": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8"
   }
  ]
 }
