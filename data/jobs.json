@@ -1,7 +1,88 @@
 {
- "generated_at": "2026-11-23T20:26:45+00:00",
+ "generated_at": "2026-11-24T19:37:48+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-24",
+   "source": "Jobicy",
+   "company": "Zone &#038; Co",
+   "location": "Czechia",
+   "title": "AI Software Engineer",
+   "tech_stack": "AWS",
+   "contact_info": "https://jobicy.com/jobs/153823-ai-software-engineer"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Jobicy",
+   "company": "Twilio",
+   "location": "Ireland,  UK",
+   "title": "Presales Engineer",
+   "tech_stack": "Java, React",
+   "contact_info": "https://jobicy.com/jobs/156788-presales-engineer"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Arbeitnow",
+   "company": "Swisscom",
+   "location": "Rotterdam, Zuid-Holland, Netherlands",
+   "title": "IT Internship - Fullstack Engineer: Agentic AI in Billing",
+   "tech_stack": "AWS",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-agentic-ai-in-billing-rotterdam-256959"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Arbeitnow",
+   "company": "Publitas.com B.V.",
+   "location": "Remote job",
+   "title": "Staff Product Engineer ( SaaS / Remote )",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Arbeitnow",
+   "company": "Getyourguide",
+   "location": "Berlin",
+   "title": "Senior Software Engineer (Frontend focused)",
+   "tech_stack": "Java, Spring Boot, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/getyourguide/senior-software-engineer-frontend-focused-berlin-282888"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Arbeitnow",
+   "company": "Doctolib",
+   "location": "Berlin",
+   "title": "Senior Software Engineer FullStack Kotlin / React - Berlin (f/m/d)",
+   "tech_stack": "Java, React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-fullstack-kotlin-react-berlin-72632"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Jobicy",
+   "company": "Canonical",
+   "location": "EMEA",
+   "title": "Engineering Director - Commercial Systems",
+   "tech_stack": "Java",
+   "contact_info": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Jobicy",
+   "company": "Banyan Software",
+   "location": "Belgium,  Germany,  Netherlands,  UK",
+   "title": "Forward Deployed Engineer",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes, AWS",
+   "contact_info": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8"
+  },
+  {
+   "date_found": "2026-11-24",
+   "source": "Arbeitnow",
+   "company": "Addepar1",
+   "location": "Edinburgh",
+   "title": "Sr. Full-Stack Software Engineer - Feed & Workflow Intelligence (EDI)",
+   "tech_stack": "Java, React, AWS",
+   "contact_info": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-full-stack-software-engineer-feed-workflow-intelligence-edi-edinburgh-480970"
+  },
   {
    "date_found": "2026-11-23",
    "source": "Arbeitnow",
@@ -1126,33 +1207,6 @@
    "title": "CTO (m/w/d) – Tech-Lead mit strategischem Weitblick & Hands-on-Mentalität",
    "tech_stack": "Angular, Docker, Kubernetes",
    "contact_info": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/cto-tech-lead-mit-strategischem-weitblick-hands-on-mentalitat-berlin-231155"
-  },
-  {
-   "date_found": "2026-10-25",
-   "source": "Jobicy",
-   "company": "Twilio",
-   "location": "Ireland,  Spain,  UK",
-   "title": "Presales Engineer (German Speaking)",
-   "tech_stack": "Java, Angular, React",
-   "contact_info": "https://jobicy.com/jobs/156791-presales-engineer-german-speaking"
-  },
-  {
-   "date_found": "2026-10-25",
-   "source": "Jobicy",
-   "company": "Twilio",
-   "location": "Ireland,  UK",
-   "title": "Presales Engineer",
-   "tech_stack": "Java, React",
-   "contact_info": "https://jobicy.com/jobs/156788-presales-engineer"
-  },
-  {
-   "date_found": "2026-10-25",
-   "source": "Arbeitnow",
-   "company": "Malt",
-   "location": "Paris",
-   "title": "Senior Engineering Manager - Payment",
-   "tech_stack": "Java",
-   "contact_info": "https://www.arbeitnow.fr/jobs/companies/malt/senior-engineering-manager-payment-paris-261962"
   }
  ]
 }
