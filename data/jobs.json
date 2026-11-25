@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-11-24T19:37:48+00:00",
+ "generated_at": "2026-11-25T18:45:07+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-25",
+   "source": "Arbeitnow",
+   "company": "Vexcash AG",
+   "location": "Berlin",
+   "title": "Software C# .Net Senior Developer (all genders)",
+   "tech_stack": "TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/software-c-net-senior-developer-all-genders-berlin-294928"
+  },
+  {
+   "date_found": "2026-11-25",
+   "source": "Arbeitnow",
+   "company": "GreenFlux",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "title": "Senior Software Engineer",
+   "tech_stack": "TypeScript",
+   "contact_info": "https://www.arbeitnow.nl/jobs/companies/greenflux/senior-software-engineer-amsterdam-48232"
+  },
+  {
+   "date_found": "2026-11-25",
+   "source": "Arbeitnow",
+   "company": "ecosio",
+   "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+   "title": "Full Stack Developer - Java & React (f/m/d)",
+   "tech_stack": "Java, Spring Boot, Angular, React, TypeScript, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-492442"
+  },
+  {
+   "date_found": "2026-11-25",
+   "source": "Arbeitnow",
+   "company": "Adikteev",
+   "location": "Remote job",
+   "title": "Senior Engineering Team Lead",
+   "tech_stack": "Java, Kafka, Kubernetes, AWS",
+   "contact_info": "https://www.arbeitnow.fr/jobs/companies/adikteev/remote-senior-engineering-team-lead-paris-127335"
+  },
   {
    "date_found": "2026-11-24",
    "source": "Jobicy",
@@ -1198,15 +1234,6 @@
    "title": "Technical Account Manager",
    "tech_stack": "Java",
    "contact_info": "https://jobicy.com/jobs/157348-technical-account-manager-10"
-  },
-  {
-   "date_found": "2026-10-26",
-   "source": "Arbeitnow",
-   "company": "Firstlead GmbH",
-   "location": "Berlin",
-   "title": "CTO (m/w/d) – Tech-Lead mit strategischem Weitblick & Hands-on-Mentalität",
-   "tech_stack": "Angular, Docker, Kubernetes",
-   "contact_info": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/cto-tech-lead-mit-strategischem-weitblick-hands-on-mentalitat-berlin-231155"
   }
  ]
 }
