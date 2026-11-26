@@ -1,7 +1,43 @@
 {
- "generated_at": "2026-11-25T18:45:07+00:00",
+ "generated_at": "2026-11-26T18:33:17+00:00",
  "retention_days": 30,
  "jobs": [
+  {
+   "date_found": "2026-11-26",
+   "source": "Arbeitnow",
+   "company": "SumUp",
+   "location": "Cologne, North Rhine-Westphalia, Germany",
+   "title": "Senior Frontend Engineer",
+   "tech_stack": "React, TypeScript",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/sumup/senior-frontend-engineer-cologne-435182"
+  },
+  {
+   "date_found": "2026-11-26",
+   "source": "Arbeitnow",
+   "company": "Staffbase",
+   "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen",
+   "title": "Senior Fullstack Engineer",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/staffbase/senior-fullstack-engineer-berlin-chemnitz-sachsen-dresden-sachsen-492815"
+  },
+  {
+   "date_found": "2026-11-26",
+   "source": "Arbeitnow",
+   "company": "Staffbase",
+   "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen",
+   "title": "Forward Deployed Engineer",
+   "tech_stack": "Java, React, TypeScript, Docker, Kubernetes",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/staffbase/forward-deployed-engineer-berlin-chemnitz-sachsen-dresden-sachsen-203755"
+  },
+  {
+   "date_found": "2026-11-26",
+   "source": "Arbeitnow",
+   "company": "Andercore",
+   "location": "Berlin",
+   "title": "Senior Product Engineer (Full Stack)",
+   "tech_stack": "Java, Spring Boot, React, TypeScript, AWS",
+   "contact_info": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-49635"
+  },
   {
    "date_found": "2026-11-25",
    "source": "Arbeitnow",
@@ -1225,15 +1261,6 @@
    "title": "Senior Software Engineer - Fullstack",
    "tech_stack": "Java, Angular, React, Docker, Kubernetes, AWS",
    "contact_info": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365"
-  },
-  {
-   "date_found": "2026-10-27",
-   "source": "Jobicy",
-   "company": "Ping Identity",
-   "location": "UK",
-   "title": "Technical Account Manager",
-   "tech_stack": "Java",
-   "contact_info": "https://jobicy.com/jobs/157348-technical-account-manager-10"
   }
  ]
 }
